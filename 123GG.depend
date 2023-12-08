@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1682186958 source:c:\users\nursultan\onedrive\Документы\123gg\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1682186958 source:c:\users\nursultan\onedrive\Документы\Мои работы )\pac-man_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
